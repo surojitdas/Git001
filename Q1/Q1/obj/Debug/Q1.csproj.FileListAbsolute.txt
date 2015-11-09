@@ -1,0 +1,6 @@
+D:\SurojitC#\Q1\Q1\bin\Debug\Q1.exe.config
+D:\SurojitC#\Q1\Q1\bin\Debug\Q1.exe
+D:\SurojitC#\Q1\Q1\bin\Debug\Q1.pdb
+D:\SurojitC#\Q1\Q1\obj\Debug\Q1.csprojResolveAssemblyReference.cache
+D:\SurojitC#\Q1\Q1\obj\Debug\Q1.exe
+D:\SurojitC#\Q1\Q1\obj\Debug\Q1.pdb
